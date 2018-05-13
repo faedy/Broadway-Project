@@ -1,0 +1,81 @@
+/*Blanket code*/
+
+* {
+  font-family: Helvetica;
+  text-align: center;
+  align-content: center;
+}
+
+
+/*Banner*/
+
+.banner {
+  background-image: url("../Images/building.png");
+  background-size: cover;
+}
+
+.banner h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner p {
+  font-size: 18px;
+}
+
+
+/*Process*/
+
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+
+/*Second Banner*/
+
+.second-banner {
+  background-image: url("../Images/building.png");
+}
+
+.second-banner h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+
+/*About*/
+
+.about h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.about p {
+  font-size: 14px;
+}
+
+
+/*Footer*/
+
+footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+}
+
+a {
+  color: white;
+}
